@@ -231,3 +231,16 @@ JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FA
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
 1671366795135	Marionette	INFO	Stopped listening on port 58001
+1671367427348	geckodriver	INFO	Listening on 127.0.0.1:58639
+1671367430368	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58640" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilekQBJ8P"
+1671367431272	Marionette	INFO	Marionette enabled
+1671367431281	Marionette	INFO	Listening on port 58652
+Read port: 58652
+WebDriver BiDi listening on ws://127.0.0.1:58640
+1671367431502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilekQBJ8P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58640/devtools/browser/b4f65c4a-154c-48d6-869b-eb43a506f16e
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671367495529	Marionette	INFO	Stopped listening on port 58652
