@@ -13,11 +13,11 @@ class Test_Jay_02:
         yield
         self.driver.close()
 
-    def pim_login(self,booting_function):
+    def test_pim_login(self,booting_function):
         self.driver.maximize_window()
         self.driver.get(self.url)
         time.sleep(3)
-        
+
         username = 'Admin'
         password = 'admin123'
 
@@ -55,4 +55,5 @@ class Test_Jay_02:
         save_xpath.click()
         time.sleep(7)
         print("The user added a new employee in pim module successfully and credentials is displayed")
+
 

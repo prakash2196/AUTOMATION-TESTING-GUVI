@@ -192,3 +192,42 @@ interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mj
 webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
 1671342630860	Marionette	INFO	Stopped listening on port 51676
 [Parent 19648, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1671364904315	geckodriver	INFO	Listening on 127.0.0.1:56577
+1671364907333	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56578" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileAQtn2X"
+1671364908337	Marionette	INFO	Marionette enabled
+1671364908348	Marionette	INFO	Listening on port 56590
+Read port: 56590
+WebDriver BiDi listening on ws://127.0.0.1:56578
+1671364908707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileAQtn2X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56578/devtools/browser/d6a033de-82ca-446e-a3ba-cb0f210d0a87
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671364968473	Marionette	INFO	Stopped listening on port 56590
+1671365771118	geckodriver	INFO	Listening on 127.0.0.1:57316
+1671365774143	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57317" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileYzg9Su"
+1671365774992	Marionette	INFO	Marionette enabled
+1671365775007	Marionette	INFO	Listening on port 57338
+Read port: 57338
+WebDriver BiDi listening on ws://127.0.0.1:57317
+1671365775245	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileYzg9Su\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57317/devtools/browser/cdf1c1b7-b046-4dac-b7c9-b9708662f83b
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671365803272	Marionette	INFO	Stopped listening on port 57338
+1671366757041	geckodriver	INFO	Listening on 127.0.0.1:57988
+1671366760060	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57989" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileVj4AUj"
+1671366760762	Marionette	INFO	Marionette enabled
+1671366760774	Marionette	INFO	Listening on port 58001
+Read port: 58001
+WebDriver BiDi listening on ws://127.0.0.1:57989
+1671366761156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileVj4AUj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57989/devtools/browser/d399cfcd-a5ab-4e90-a41a-11ee395e0d80
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671366795135	Marionette	INFO	Stopped listening on port 58001
