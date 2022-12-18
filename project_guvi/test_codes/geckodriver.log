@@ -1,0 +1,194 @@
+1671122224525	geckodriver	INFO	Listening on 127.0.0.1:54192
+1671122227545	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54193" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofile7xhajE"
+1671122231478	Marionette	INFO	Marionette enabled
+1671122231486	Marionette	INFO	Listening on port 54206
+Read port: 54206
+WebDriver BiDi listening on ws://127.0.0.1:54193
+1671122231664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofile7xhajE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54193/devtools/browser/1b272319-222c-46c4-acd4-e32c23593ff3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671122257999	Marionette	INFO	Stopped listening on port 54206
+1671122379449	geckodriver	INFO	Listening on 127.0.0.1:54357
+1671122382483	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54358" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilemPYL8T"
+1671122382866	Marionette	INFO	Marionette enabled
+1671122382870	Marionette	INFO	Listening on port 54368
+Read port: 54368
+WebDriver BiDi listening on ws://127.0.0.1:54358
+1671122383062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilemPYL8T\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54358/devtools/browser/965710da-9539-4865-a9c5-67b4584cb9b9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671122402502	Marionette	INFO	Stopped listening on port 54368
+1671122644791	geckodriver	INFO	Listening on 127.0.0.1:54572
+1671122647818	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54573" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofiledkFWN6"
+1671122648271	Marionette	INFO	Marionette enabled
+1671122648282	Marionette	INFO	Listening on port 54584
+Read port: 54584
+WebDriver BiDi listening on ws://127.0.0.1:54573
+1671122648471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofiledkFWN6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54573/devtools/browser/ba6408bf-e266-400e-88a4-2514a496672f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671122673402	Marionette	INFO	Stopped listening on port 54584
+1671123170515	geckodriver	INFO	Listening on 127.0.0.1:54938
+1671123173544	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54939" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofile8SVv8m"
+1671123174001	Marionette	INFO	Marionette enabled
+1671123174007	Marionette	INFO	Listening on port 54949
+Read port: 54949
+WebDriver BiDi listening on ws://127.0.0.1:54939
+1671123174165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofile8SVv8m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54939/devtools/browser/68f15d1d-9501-4ba1-ba7d-2cf3db5f635b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671123193008	Marionette	INFO	Stopped listening on port 54949
+1671124459264	geckodriver	INFO	Listening on 127.0.0.1:55495
+1671124462334	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55496" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileORk168"
+1671124462784	Marionette	INFO	Marionette enabled
+1671124462794	Marionette	INFO	Listening on port 55507
+Read port: 55507
+WebDriver BiDi listening on ws://127.0.0.1:55496
+1671124462991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileORk168\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55496/devtools/browser/3ba2210c-e96d-4370-8896-69ca3c8dbd05
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671124484041	Marionette	INFO	Stopped listening on port 55507
+1671124688088	geckodriver	INFO	Listening on 127.0.0.1:55658
+1671124691146	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55659" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileXGAwAx"
+1671124691540	Marionette	INFO	Marionette enabled
+1671124691545	Marionette	INFO	Listening on port 55668
+Read port: 55668
+WebDriver BiDi listening on ws://127.0.0.1:55659
+1671124691705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileXGAwAx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55659/devtools/browser/99037e37-1ad5-4735-825a-f7e5d92906f3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671124734710	Marionette	INFO	Stopped listening on port 55668
+1671339250719	geckodriver	INFO	Listening on 127.0.0.1:50397
+1671339253763	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50398" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofiletLR0c6"
+1671339255102	Marionette	INFO	Marionette enabled
+1671339255116	Marionette	INFO	Listening on port 50410
+Read port: 50410
+WebDriver BiDi listening on ws://127.0.0.1:50398
+1671339255305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofiletLR0c6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50398/devtools/browser/8fcddc84-0089-45e0-badc-7e032542ab9c
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671339274595	Marionette	INFO	Stopped listening on port 50410
+1671339413101	geckodriver	INFO	Listening on 127.0.0.1:50497
+1671339416139	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50498" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileDFh4q7"
+1671339416536	Marionette	INFO	Marionette enabled
+1671339416550	Marionette	INFO	Listening on port 50507
+Read port: 50507
+WebDriver BiDi listening on ws://127.0.0.1:50498
+1671339416731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileDFh4q7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50498/devtools/browser/4f251c9a-cea4-4497-a4b3-684fdf311161
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671339432212	Marionette	INFO	Stopped listening on port 50507
+1671339631817	geckodriver	INFO	Listening on 127.0.0.1:50679
+1671339634858	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50680" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileBr0DEt"
+1671339635310	Marionette	INFO	Marionette enabled
+1671339635323	Marionette	INFO	Listening on port 50689
+Read port: 50689
+WebDriver BiDi listening on ws://127.0.0.1:50680
+1671339635493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileBr0DEt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50680/devtools/browser/921bcd63-85f0-4428-b0c2-1c03fd753430
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671339654082	Marionette	INFO	Stopped listening on port 50689
+1671340031424	geckodriver	INFO	Listening on 127.0.0.1:50816
+1671340034479	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50817" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilee9ISLl"
+1671340035089	Marionette	INFO	Marionette enabled
+1671340035110	Marionette	INFO	Listening on port 50826
+Read port: 50826
+WebDriver BiDi listening on ws://127.0.0.1:50817
+1671340035368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilee9ISLl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50817/devtools/browser/321a57b5-617e-4c5f-9edc-0c9bba34cc18
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671340179665	Marionette	INFO	Stopped listening on port 50826
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1671340320390	geckodriver	INFO	Listening on 127.0.0.1:50953
+1671340323425	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50954" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilekG7Jke"
+1671340323857	Marionette	INFO	Marionette enabled
+1671340323866	Marionette	INFO	Listening on port 50963
+Read port: 50963
+WebDriver BiDi listening on ws://127.0.0.1:50954
+1671340324055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilekG7Jke\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50954/devtools/browser/ce30ff0f-33e3-47c9-a9b2-b5a3ef824953
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671340567701	Marionette	INFO	Stopped listening on port 50963
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+marionette" "--remote-debugging-port" "51087" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilem87RAA"
+1671340529495	Marionette	INFO	Marionette enabled
+1671340529511	Marionette	INFO	Listening on port 51096
+Read port: 51096
+WebDriver BiDi listening on ws://127.0.0.1:51087
+1671340529720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilem87RAA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51087/devtools/browser/833f7909-9c7a-4e37-94ba-72a2012ef707
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671340552442	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671340560175	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1671340897146	Marionette	INFO	Stopped listening on port 51096
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1671341714491	geckodriver	INFO	Listening on 127.0.0.1:51445
+1671341717532	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51446" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileGMgVOH"
+1671341717928	Marionette	INFO	Marionette enabled
+1671341717943	Marionette	INFO	Listening on port 51455
+Read port: 51455
+WebDriver BiDi listening on ws://127.0.0.1:51446
+1671341718105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileGMgVOH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51446/devtools/browser/af06a035-3619-4d7f-905a-e14821b35974
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671341739098	Marionette	INFO	Stopped listening on port 51455
+1671342612165	geckodriver	INFO	Listening on 127.0.0.1:51666
+1671342615200	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51667" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileWUTQuw"
+1671342615652	Marionette	INFO	Marionette enabled
+1671342615663	Marionette	INFO	Listening on port 51676
+Read port: 51676
+WebDriver BiDi listening on ws://127.0.0.1:51667
+1671342615829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileWUTQuw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51667/devtools/browser/cb36d620-891b-4b9a-b669-9f8e9436df06
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1671342630615	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1671342630860	Marionette	INFO	Stopped listening on port 51676
+[Parent 19648, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
