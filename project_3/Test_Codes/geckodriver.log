@@ -1,0 +1,991 @@
+1672629541864	geckodriver	INFO	Listening on 127.0.0.1:51649
+1672629544887	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51650" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileEdXDOd"
+1672629547525	Marionette	INFO	Marionette enabled
+1672629547538	Marionette	INFO	Listening on port 51665
+Read port: 51665
+WebDriver BiDi listening on ws://127.0.0.1:51650
+1672629547731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileEdXDOd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51650/devtools/browser/b189ec70-dc58-4d0f-b5d1-2b9db56fdd8d
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+1672629666315	Marionette	INFO	Stopped listening on port 51665
+1672629822226	geckodriver	INFO	Listening on 127.0.0.1:51866
+1672629825276	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51867" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileq1BWlX"
+1672629825796	Marionette	INFO	Marionette enabled
+1672629825811	Marionette	INFO	Listening on port 51877
+Read port: 51877
+WebDriver BiDi listening on ws://127.0.0.1:51867
+1672629826134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileq1BWlX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51867/devtools/browser/61aef7f7-300c-4ddf-947e-792b870108cc
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+1672629848342	Marionette	INFO	Stopped listening on port 51877
+1672629963026	geckodriver	INFO	Listening on 127.0.0.1:51981
+1672629966058	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51982" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilewSKayR"
+1672629966479	Marionette	INFO	Marionette enabled
+1672629966493	Marionette	INFO	Listening on port 51993
+Read port: 51993
+WebDriver BiDi listening on ws://127.0.0.1:51982
+1672629966676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilewSKayR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51982/devtools/browser/ae893a7e-07b2-42a2-907a-a44b6b4896e6
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+1672630047404	Marionette	INFO	Stopped listening on port 51993
+1672630288589	geckodriver	INFO	Listening on 127.0.0.1:52300
+1672630291629	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52301" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileM66nuJ"
+1672630292154	Marionette	INFO	Marionette enabled
+1672630292159	Marionette	INFO	Listening on port 52312
+Read port: 52312
+WebDriver BiDi listening on ws://127.0.0.1:52301
+1672630292362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileM66nuJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52301/devtools/browser/70076d48-c4e1-42a2-8b98-1c4fa15d9352
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1672630330083	Marionette	INFO	Stopped listening on port 52312
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1672630384234	geckodriver	INFO	Listening on 127.0.0.1:52404
+1672630387267	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52405" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileZ8qsJV"
+1672630387683	Marionette	INFO	Marionette enabled
+1672630387692	Marionette	INFO	Listening on port 52416
+Read port: 52416
+WebDriver BiDi listening on ws://127.0.0.1:52405
+1672630387891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileZ8qsJV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52405/devtools/browser/11dccabb-4ec6-4c9f-afad-17c0ed01d6bb
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672630435297	Marionette	INFO	Stopped listening on port 52416
+1672630499383	geckodriver	INFO	Listening on 127.0.0.1:52518
+1672630502420	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52519" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilerrDhhi"
+1672630502858	Marionette	INFO	Marionette enabled
+1672630502865	Marionette	INFO	Listening on port 52530
+Read port: 52530
+WebDriver BiDi listening on ws://127.0.0.1:52519
+1672630503051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilerrDhhi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52519/devtools/browser/49d5386b-c878-455f-a3aa-02b4701f851a
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672630607457	Marionette	INFO	Stopped listening on port 52530
+1672630750500	geckodriver	INFO	Listening on 127.0.0.1:52749
+1672630753532	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52750" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilexYehdb"
+1672630754003	Marionette	INFO	Marionette enabled
+1672630754009	Marionette	INFO	Listening on port 52760
+Read port: 52760
+WebDriver BiDi listening on ws://127.0.0.1:52750
+1672630754339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilexYehdb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52750/devtools/browser/873947d6-a446-4e37-9acf-7cd9427dce67
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+1672630856549	Marionette	INFO	Stopped listening on port 52760
+1672647268128	geckodriver	INFO	Listening on 127.0.0.1:54295
+1672647271195	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54296" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileOa3E6W"
+1672647271795	Marionette	INFO	Marionette enabled
+1672647271804	Marionette	INFO	Listening on port 54306
+Read port: 54306
+WebDriver BiDi listening on ws://127.0.0.1:54296
+1672647271994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileOa3E6W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54296/devtools/browser/80540988-5730-4839-bcc2-d6a9fabd34e7
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672647300959	Marionette	INFO	Stopped listening on port 54306
+1672647437376	geckodriver	INFO	Listening on 127.0.0.1:54433
+1672647440459	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54434" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileXbQwhO"
+1672647440981	Marionette	INFO	Marionette enabled
+1672647440988	Marionette	INFO	Listening on port 54445
+Read port: 54445
+WebDriver BiDi listening on ws://127.0.0.1:54434
+1672647441154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileXbQwhO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54434/devtools/browser/9e02df3b-1ef1-42d1-b9d0-bdacd8db015e
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672647467535	Marionette	INFO	Stopped listening on port 54445
+1672647532201	geckodriver	INFO	Listening on 127.0.0.1:54528
+1672647535248	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54529" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofile8v3GqS"
+1672647535759	Marionette	INFO	Marionette enabled
+1672647535765	Marionette	INFO	Listening on port 54539
+Read port: 54539
+WebDriver BiDi listening on ws://127.0.0.1:54529
+1672647535938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofile8v3GqS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54529/devtools/browser/aed6f81e-0db7-427e-909b-4a8d6023fa27
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672647565279	Marionette	INFO	Stopped listening on port 54539
+1672647647916	geckodriver	INFO	Listening on 127.0.0.1:54662
+1672647650956	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54663" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileNKoG3P"
+1672647651476	Marionette	INFO	Marionette enabled
+1672647651483	Marionette	INFO	Listening on port 54674
+Read port: 54674
+WebDriver BiDi listening on ws://127.0.0.1:54663
+1672647651668	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileNKoG3P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54663/devtools/browser/082bafbf-60ca-4266-8277-078b89b7b1ee
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672647679945	Marionette	INFO	Stopped listening on port 54674
+1672648323762	geckodriver	INFO	Listening on 127.0.0.1:55234
+1672648326820	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55235" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileQFC1e6"
+1672648327284	Marionette	INFO	Marionette enabled
+1672648327291	Marionette	INFO	Listening on port 55246
+Read port: 55246
+WebDriver BiDi listening on ws://127.0.0.1:55235
+1672648327457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileQFC1e6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55235/devtools/browser/5327fb5b-27a1-4080-94b6-b5b3c57e2e30
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672648355441	Marionette	INFO	Stopped listening on port 55246
+1672648836420	geckodriver	INFO	Listening on 127.0.0.1:55457
+1672648839463	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55458" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilec2DCRn"
+1672648839948	Marionette	INFO	Marionette enabled
+1672648839953	Marionette	INFO	Listening on port 55470
+Read port: 55470
+WebDriver BiDi listening on ws://127.0.0.1:55458
+1672648840128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilec2DCRn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55458/devtools/browser/4f3fd0aa-6e6b-45fc-ab74-3fc3349904b7
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672648876586	Marionette	INFO	Stopped listening on port 55470
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1672648996941	geckodriver	INFO	Listening on 127.0.0.1:55594
+1672649000001	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55595" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileCTWnYl"
+1672649000498	Marionette	INFO	Marionette enabled
+1672649000505	Marionette	INFO	Listening on port 55605
+Read port: 55605
+WebDriver BiDi listening on ws://127.0.0.1:55595
+1672649000671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileCTWnYl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55595/devtools/browser/ab5177b6-731b-4b13-ab91-8414e496528e
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+1672649030090	Marionette	INFO	Stopped listening on port 55605
+1672649072693	geckodriver	INFO	Listening on 127.0.0.1:55679
+1672649075747	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55680" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofile3tD2nd"
+1672649076285	Marionette	INFO	Marionette enabled
+1672649076292	Marionette	INFO	Listening on port 55690
+Read port: 55690
+WebDriver BiDi listening on ws://127.0.0.1:55680
+1672649076465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofile3tD2nd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55680/devtools/browser/cecb972b-b770-4832-867c-d89d74dc40aa
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672649109066	Marionette	INFO	Stopped listening on port 55690
+1672649975854	geckodriver	INFO	Listening on 127.0.0.1:56223
+1672649978900	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56224" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofile0ru37P"
+1672649979518	Marionette	INFO	Marionette enabled
+1672649979527	Marionette	INFO	Listening on port 56235
+Read port: 56235
+WebDriver BiDi listening on ws://127.0.0.1:56224
+1672649979731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofile0ru37P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56224/devtools/browser/9fa93c15-bd5f-42a3-8957-5603397232c6
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+1672650011038	Marionette	INFO	Stopped listening on port 56235
+1672650051712	geckodriver	INFO	Listening on 127.0.0.1:56328
+1672650054759	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56329" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileWq7ptr"
+1672650055270	Marionette	INFO	Marionette enabled
+1672650055278	Marionette	INFO	Listening on port 56340
+Read port: 56340
+WebDriver BiDi listening on ws://127.0.0.1:56329
+1672650055462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileWq7ptr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56329/devtools/browser/2c3c54d5-a260-48a4-8ab0-b3087be94743
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+1672650096576	Marionette	INFO	Stopped listening on port 56340
+1672650195589	geckodriver	INFO	Listening on 127.0.0.1:56457
+1672650198637	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56458" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileXw8wdL"
+1672650199080	Marionette	INFO	Marionette enabled
+1672650199087	Marionette	INFO	Listening on port 56469
+Read port: 56469
+WebDriver BiDi listening on ws://127.0.0.1:56458
+1672650199266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileXw8wdL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56458/devtools/browser/87b3ff80-2050-4864-a9a3-517267bd4aa1
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672650240213	Marionette	INFO	Stopped listening on port 56469
+1672679551922	geckodriver	INFO	Listening on 127.0.0.1:49956
+1672679554935	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49957" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofile2iEoYB"
+1672679556322	Marionette	INFO	Marionette enabled
+1672679556337	Marionette	INFO	Listening on port 49966
+Read port: 49966
+WebDriver BiDi listening on ws://127.0.0.1:49957
+1672679556583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofile2iEoYB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49957/devtools/browser/7a97b5e5-1584-403c-a60f-cef3fd4e1c0e
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672679586567	Marionette	INFO	Stopped listening on port 49966
+1672679622109	geckodriver	INFO	Listening on 127.0.0.1:50097
+1672679625129	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50098" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileOhetdu"
+1672679625609	Marionette	INFO	Marionette enabled
+1672679625625	Marionette	INFO	Listening on port 50107
+Read port: 50107
+WebDriver BiDi listening on ws://127.0.0.1:50098
+1672679625830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileOhetdu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50098/devtools/browser/c769fc19-9521-4af5-a755-2aed6721952e
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672679652303	Marionette	INFO	Stopped listening on port 50107
+1672679689331	geckodriver	INFO	Listening on 127.0.0.1:50156
+1672679692379	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50157" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofile5Eo0T0"
+1672679692865	Marionette	INFO	Marionette enabled
+1672679692880	Marionette	INFO	Listening on port 50166
+Read port: 50166
+WebDriver BiDi listening on ws://127.0.0.1:50157
+1672679693107	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofile5Eo0T0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50157/devtools/browser/b4d0702d-5b5a-4a4c-aae7-04de44b7f755
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672679716873	Marionette	INFO	Stopped listening on port 50166
+1672679848935	geckodriver	INFO	Listening on 127.0.0.1:50213
+1672679851985	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50214" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileZZwwv2"
+1672679852401	Marionette	INFO	Marionette enabled
+1672679852415	Marionette	INFO	Listening on port 50223
+Read port: 50223
+WebDriver BiDi listening on ws://127.0.0.1:50214
+1672679852583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileZZwwv2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50214/devtools/browser/a225d906-888f-420f-81b9-cd342394ff5c
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672679878634	Marionette	INFO	Stopped listening on port 50223
+1672680007408	geckodriver	INFO	Listening on 127.0.0.1:50308
+1672680010444	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50309" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileSfhqji"
+1672680010961	Marionette	INFO	Marionette enabled
+1672680010978	Marionette	INFO	Listening on port 50318
+Read port: 50318
+WebDriver BiDi listening on ws://127.0.0.1:50309
+1672680011187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileSfhqji\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50309/devtools/browser/fffe9c5d-1c67-4ea2-bd8f-d5a81992b563
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672680041274	Marionette	INFO	Stopped listening on port 50318
+1672680421760	geckodriver	INFO	Listening on 127.0.0.1:50412
+1672680424778	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50413" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileHu17Kx"
+1672680425197	Marionette	INFO	Marionette enabled
+1672680425205	Marionette	INFO	Listening on port 50422
+Read port: 50422
+WebDriver BiDi listening on ws://127.0.0.1:50413
+1672680425383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileHu17Kx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50413/devtools/browser/f0731a43-01f6-4070-8fc7-5f999d890240
+1672680427551	Marionette	INFO	Stopped listening on port 50422
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1672680523132	geckodriver	INFO	Listening on 127.0.0.1:50453
+1672680526169	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50454" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilecyhrJd"
+1672680526593	Marionette	INFO	Marionette enabled
+1672680526602	Marionette	INFO	Listening on port 50463
+Read port: 50463
+WebDriver BiDi listening on ws://127.0.0.1:50454
+1672680526788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilecyhrJd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50454/devtools/browser/cdc53083-3045-43e5-82df-d4cd037570ef
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672680567546	Marionette	INFO	Stopped listening on port 50463
+1672680720111	geckodriver	INFO	Listening on 127.0.0.1:50564
+1672680723173	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50565" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilevG66Sz"
+1672680723657	Marionette	INFO	Marionette enabled
+1672680723667	Marionette	INFO	Listening on port 50574
+Read port: 50574
+WebDriver BiDi listening on ws://127.0.0.1:50565
+1672680723852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilevG66Sz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50565/devtools/browser/f9ddc448-ddf0-437c-b734-38b31b07fbf6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672680775994	Marionette	INFO	Stopped listening on port 50574
+1672681166523	geckodriver	INFO	Listening on 127.0.0.1:50763
+1672681169571	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50764" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofile47mCz9"
+1672681170090	Marionette	INFO	Marionette enabled
+1672681170101	Marionette	INFO	Listening on port 50774
+Read port: 50774
+WebDriver BiDi listening on ws://127.0.0.1:50764
+1672681170304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofile47mCz9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50764/devtools/browser/67a76a8a-bf96-472a-b9ad-49ff942fa321
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 572))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967302/pagestyle22 (resource://devtools/server/actors/page-style.js:572:5)", "resource://devtools/shared/protocol/Front.js", 383))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 572))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967302/pagestyle22 (resource://devtools/server/actors/page-style.js:572:5)", "resource://devtools/shared/protocol/Front.js", 383))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1672681746428	Marionette	INFO	Stopped listening on port 50774
+1672766844151	geckodriver	INFO	Listening on 127.0.0.1:55809
+1672766847205	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55810" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileHwgi2Y"
+1672766847867	Marionette	INFO	Marionette enabled
+1672766847876	Marionette	INFO	Listening on port 55819
+Read port: 55819
+WebDriver BiDi listening on ws://127.0.0.1:55810
+1672766848085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileHwgi2Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55810/devtools/browser/7530baff-0e4d-4aa2-a874-6256ff744e1b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672766904608	Marionette	INFO	Stopped listening on port 55819
+1672766981156	geckodriver	INFO	Listening on 127.0.0.1:55906
+1672766984206	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55907" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilejHeJlF"
+1672766984695	Marionette	INFO	Marionette enabled
+1672766984703	Marionette	INFO	Listening on port 55916
+Read port: 55916
+WebDriver BiDi listening on ws://127.0.0.1:55907
+1672766985046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilejHeJlF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55907/devtools/browser/624a81bf-9d6c-4596-bab5-2f80043022ee
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+1672767023128	Marionette	INFO	Stopped listening on port 55916
+1672767145012	geckodriver	INFO	Listening on 127.0.0.1:56014
+1672767148057	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56015" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileAzRlW6"
+1672767148566	Marionette	INFO	Marionette enabled
+1672767148574	Marionette	INFO	Listening on port 56024
+Read port: 56024
+WebDriver BiDi listening on ws://127.0.0.1:56015
+1672767148924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileAzRlW6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56015/devtools/browser/dc041968-3102-472c-94cd-b80d7d734a3a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672767204028	Marionette	INFO	Stopped listening on port 56024
+1672769125442	geckodriver	INFO	Listening on 127.0.0.1:56504
+1672769128510	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56505" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileCojbHd"
+1672769129256	Marionette	INFO	Marionette enabled
+1672769129265	Marionette	INFO	Listening on port 56514
+Read port: 56514
+WebDriver BiDi listening on ws://127.0.0.1:56505
+1672769129467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileCojbHd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56505/devtools/browser/c89c3cc6-c791-4105-aae2-983b9f9bbbbc
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+1672769144537	Marionette	INFO	Stopped listening on port 56514
+1672769271444	geckodriver	INFO	Listening on 127.0.0.1:56576
+1672769274482	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56577" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileOsYyVF"
+1672769275138	Marionette	INFO	Marionette enabled
+1672769275146	Marionette	INFO	Listening on port 56586
+Read port: 56586
+WebDriver BiDi listening on ws://127.0.0.1:56577
+1672769275349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileOsYyVF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56577/devtools/browser/cf4e6c8d-8712-4a90-9210-276f34a9494d
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672769314700	Marionette	INFO	Stopped listening on port 56586
+1672844803142	geckodriver	INFO	Listening on 127.0.0.1:59959
+1672844806212	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59960" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofile72DY2w"
+1672844807125	Marionette	INFO	Marionette enabled
+1672844807134	Marionette	INFO	Listening on port 59970
+Read port: 59970
+WebDriver BiDi listening on ws://127.0.0.1:59960
+1672844807374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofile72DY2w\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59960/devtools/browser/dc3b7f2d-c83e-4232-a247-13ad7e7844ab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+1672844854532	Marionette	INFO	Stopped listening on port 59970
+1672844910106	geckodriver	INFO	Listening on 127.0.0.1:60066
+1672844913150	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60067" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilejaAIqu"
+1672844913962	Marionette	INFO	Marionette enabled
+1672844913970	Marionette	INFO	Listening on port 60079
+Read port: 60079
+WebDriver BiDi listening on ws://127.0.0.1:60067
+1672844914166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilejaAIqu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60067/devtools/browser/ece8ceb6-286d-4773-82da-2fe824e27cd4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+1672844975735	Marionette	INFO	Stopped listening on port 60079
+[Parent 10932, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1672845028361	geckodriver	INFO	Listening on 127.0.0.1:60150
+1672845031384	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60151" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofiley5tkD2"
+1672845032096	Marionette	INFO	Marionette enabled
+1672845032103	Marionette	INFO	Listening on port 60160
+Read port: 60160
+WebDriver BiDi listening on ws://127.0.0.1:60151
+1672845032301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofiley5tkD2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60151/devtools/browser/fda4e925-d59a-48cf-8434-57b13707391c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1666596668857, line 1: Error: Request aborted
+1672845090918	Marionette	INFO	Stopped listening on port 60160
+1672845137612	geckodriver	INFO	Listening on 127.0.0.1:60260
+1672845140672	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60261" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileugkLKw"
+1672845141386	Marionette	INFO	Marionette enabled
+1672845141394	Marionette	INFO	Listening on port 60270
+Read port: 60270
+WebDriver BiDi listening on ws://127.0.0.1:60261
+1672845141589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileugkLKw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60261/devtools/browser/914df63c-9a7d-42cf-bf2d-9c3a645a5e0e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672845209310	Marionette	INFO	Stopped listening on port 60270
+1672887972712	geckodriver	INFO	Listening on 127.0.0.1:61242
+1672887975753	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61243" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilegZ2EHs"
+1672887976757	Marionette	INFO	Marionette enabled
+1672887976767	Marionette	INFO	Listening on port 61252
+Read port: 61252
+WebDriver BiDi listening on ws://127.0.0.1:61243
+1672887976990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilegZ2EHs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61243/devtools/browser/53792e28-d7a1-45a1-b6a2-1a5d21858dba
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672888031966	Marionette	INFO	Stopped listening on port 61252
+1672975028880	geckodriver	INFO	Listening on 127.0.0.1:52092
+1672975031904	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52093" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilehRWGer"
+1672975032485	Marionette	INFO	Marionette enabled
+1672975032493	Marionette	INFO	Listening on port 52103
+Read port: 52103
+WebDriver BiDi listening on ws://127.0.0.1:52093
+1672975032680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilehRWGer\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52093/devtools/browser/0ad48c4d-c35b-4679-84e6-7c3a5c096866
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1672975089639	Marionette	INFO	Stopped listening on port 52103
+1673097210469	geckodriver	INFO	Listening on 127.0.0.1:56915
+1673097213516	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56916" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileAQftfu"
+1673097214265	Marionette	INFO	Marionette enabled
+1673097214274	Marionette	INFO	Listening on port 56927
+Read port: 56927
+WebDriver BiDi listening on ws://127.0.0.1:56916
+1673097214500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileAQftfu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56916/devtools/browser/bad9aea9-b17d-4ac3-bd8f-4e4fcff208eb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1673097291061	Marionette	INFO	Stopped listening on port 56927
+1673097325750	geckodriver	INFO	Listening on 127.0.0.1:57027
+1673097328784	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57028" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofile4720Jy"
+1673097329598	Marionette	INFO	Marionette enabled
+1673097329603	Marionette	INFO	Listening on port 57040
+Read port: 57040
+WebDriver BiDi listening on ws://127.0.0.1:57028
+1673097329790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofile4720Jy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57028/devtools/browser/95070135-31fc-42e6-9409-de432475a245
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1673097405371	Marionette	INFO	Stopped listening on port 57040
+1673097500617	geckodriver	INFO	Listening on 127.0.0.1:57178
+1673097503659	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57179" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileL9v7YD"
+1673097504532	Marionette	INFO	Marionette enabled
+1673097504540	Marionette	INFO	Listening on port 57189
+Read port: 57189
+WebDriver BiDi listening on ws://127.0.0.1:57179
+1673097504727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileL9v7YD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57179/devtools/browser/131485b0-cabe-487f-aef0-03565f8c778d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1673097584785	Marionette	INFO	Stopped listening on port 57189
+1673112573102	geckodriver	INFO	Listening on 127.0.0.1:59422
+1673112576156	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59423" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofile4kiqHD"
+1673112577128	Marionette	INFO	Marionette enabled
+1673112577137	Marionette	INFO	Listening on port 59434
+Read port: 59434
+WebDriver BiDi listening on ws://127.0.0.1:59423
+1673112577334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofile4kiqHD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59423/devtools/browser/4d995be5-c024-455e-b90d-568f36443ef6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1673112618667	Marionette	INFO	Stopped listening on port 59434
+1673112666439	geckodriver	INFO	Listening on 127.0.0.1:59525
+1673112669473	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59526" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilesh6I84"
+1673112670181	Marionette	INFO	Marionette enabled
+1673112670190	Marionette	INFO	Listening on port 59537
+Read port: 59537
+WebDriver BiDi listening on ws://127.0.0.1:59526
+1673112670496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilesh6I84\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59526/devtools/browser/ac6caf0c-0545-4756-87e8-fd7ad86d76e5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/app.js?1666596668857, line 1: TypeError: t.match is not a function
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/app.js?1666596668857, line 1: TypeError: t.match is not a function
+1673112751124	Marionette	INFO	Stopped listening on port 59537
+1673153556256	geckodriver	INFO	Listening on 127.0.0.1:51584
+1673153559333	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51585" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileX2yH3h"
+1673153560004	Marionette	INFO	Marionette enabled
+1673153560015	Marionette	INFO	Listening on port 51596
+Read port: 51596
+WebDriver BiDi listening on ws://127.0.0.1:51585
+1673153560237	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileX2yH3h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51585/devtools/browser/33a2b072-3313-4bd7-9662-5ab2aaa97819
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1673153648934	Marionette	INFO	Stopped listening on port 51596
+1673154698371	geckodriver	INFO	Listening on 127.0.0.1:52314
+1673154701426	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52315" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileKSI1mu"
+1673154702242	Marionette	INFO	Marionette enabled
+1673154702252	Marionette	INFO	Listening on port 52326
+Read port: 52326
+WebDriver BiDi listening on ws://127.0.0.1:52315
+1673154702477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileKSI1mu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52315/devtools/browser/95dd4e56-7551-4ccb-ae8d-dcd281c7b5cf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1673154764469	Marionette	INFO	Stopped listening on port 52326
+1673155745167	geckodriver	INFO	Listening on 127.0.0.1:52894
+1673155748206	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52895" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilewU5CBC"
+1673155748973	Marionette	INFO	Marionette enabled
+1673155748981	Marionette	INFO	Listening on port 52904
+Read port: 52904
+WebDriver BiDi listening on ws://127.0.0.1:52895
+1673155749195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofilewU5CBC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52895/devtools/browser/f5b03011-7a0f-483e-89f3-33b39ee6dfe9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1673155780899	Marionette	INFO	Stopped listening on port 52904
+1673156084782	geckodriver	INFO	Listening on 127.0.0.1:53076
+1673156087823	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53077" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileNYaobH"
+1673156088412	Marionette	INFO	Marionette enabled
+1673156088418	Marionette	INFO	Listening on port 53086
+Read port: 53086
+WebDriver BiDi listening on ws://127.0.0.1:53077
+1673156088629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofileNYaobH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53077/devtools/browser/88cb9f79-ebee-4ed7-a74e-778f86f6faf4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1673156120457	Marionette	INFO	Stopped listening on port 53086
+1673156426483	geckodriver	INFO	Listening on 127.0.0.1:53238
+1673156429510	mozrunner::runner	INFO	Running command: "C:\\Users\\praka\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53239" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofile6m1Ygi"
+1673156430300	Marionette	INFO	Marionette enabled
+1673156430311	Marionette	INFO	Listening on port 53250
+Read port: 53250
+WebDriver BiDi listening on ws://127.0.0.1:53239
+1673156430541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\praka\\AppData\\Local\\Temp\\rust_mozprofile6m1Ygi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53239/devtools/browser/d49b3e46-ab4f-4ed7-8dfa-20dd0a68e3b1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1673156494668	Marionette	INFO	Stopped listening on port 53250
